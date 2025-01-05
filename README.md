@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Raspberry025/Raspberry025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Raspberry025/Raspberry025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=W E L C O M E 🙏&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
@@ -18,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He
 - ⚡ Fun fact: The name Python comes from a BBc comedy sketch series, Monty Python's Flying Circus
--->
