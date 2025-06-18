@@ -12,16 +12,10 @@
 
 - 🔭 I’m currently a student of BCS and working towards increasing my coding knowledge.
 
-- 🌱 I’m currently learning Python and AI
+- 🌱 I’m currently learning Python (specializing in AI) and Java 
 
-- 👯 I’m looking to collaborate on ...
+- 📫 Contacts: sambidshrestha2005@gmail.com 
 
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: He
+- 😄 Pronouns: He/him
 
 - ⚡ Fun fact: The name Python comes from a BBc comedy sketch series, Monty Python's Flying Circus
