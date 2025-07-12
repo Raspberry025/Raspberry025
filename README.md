@@ -3,9 +3,9 @@
 <!--
 **Raspberry025/Raspberry025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <a>
-  <div class="flex-container">
-    <img height="250" width="450" alt="Centered Image" src="https://media.giphy.com/media/SEaKNxJgOfU76/giphy.gif?cid=790b7611ha03vr92r6u3hc54e0qbght8bdpb29cq3vb74vdr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-  </div>
+  <p align = "center">
+    <img height="250" width="450" alt="" src="https://media.giphy.com/media/SEaKNxJgOfU76/giphy.gif?cid=790b7611ha03vr92r6u3hc54e0qbght8bdpb29cq3vb74vdr&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+  </p>
 </a>
 - 😁 My name is Sambid Shrestha.  
 
