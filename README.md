@@ -17,12 +17,18 @@
 
 
 ---
-<!--
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
+### 🎧 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&redirect=true)
+
 ---
--->
+
+### 🎶 Recently Played
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yigeg3xdi3jmkimvazchnmyt4q&count=5)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
+
+</div>
+
 ## 🛠️ Tech Stack  
 
 <div align="center">
