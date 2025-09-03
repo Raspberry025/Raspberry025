@@ -24,8 +24,8 @@
 
 ---
 
-### 🎶 Recently Played
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yigeg3xdi3jmkimvazchnmyt4q&count=5)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
+### 🎵 Top 5 Tracks
+[![Spotify Top Tracks](https://your-vercel-app.vercel.app/api/top-tracks)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
 
 </div>
 
