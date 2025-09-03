@@ -20,7 +20,7 @@
 <div align="center">
 
 ### 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d0d0d&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&redirect=true)
 
 ---
 
