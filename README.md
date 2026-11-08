@@ -19,14 +19,18 @@
 ---
 <div align="center">
 
-### 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
+## 🎧 Music & Vibes
+
+<p align="center">
+  <!-- Sleek, reliable Spotify badge that never breaks -->
+  <a href="https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q">
+    <img src="https://img.shields.io/badge/🎧_Listen_to_my_Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" />
+  </a>
+  <br/>
+  <sub><i>(Dynamic "Now Playing" widgets frequently break due to Spotify API token limits. This link is 100% reliable!)</i></sub>
+</p>
 
 ---
-
-### 🎵 Listen With Me
-[![Spotify Profile](https://img.shields.io/badge/View_My_Spotify_Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
-
 
 </div>
 
@@ -77,13 +81,26 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raspberry025&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Raspberry025&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <!-- Streak Stats is currently the most reliable dynamic widget -->
+  <a href="https://github.com/Raspberry025">
+    <img src="https://streak-stats.demolab.com/?user=Raspberry025&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" height="180"/>
+  </a>
+  
+  <!-- Reliable alternative to the broken vercel.app stats -->
+  <a href="https://github.com/Raspberry025">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raspberry025&theme=radical" alt="GitHub Profile Details" height="180"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspberry025&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <a href="https://github.com/Raspberry025">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raspberry025&theme=radical" alt="Top Languages" height="180"/>
+  </a>
+  <a href="https://github.com/Raspberry025">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raspberry025&theme=radical" alt="Repos per Language" height="180"/>
+  </a>
 </p>
+
 ---
 
 ## 🐍 Contribution Snake  
