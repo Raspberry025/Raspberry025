@@ -10,7 +10,9 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&color=ffffff&background=0d1117&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning!;Building+Cool+Stuff" alt="Typing SVG" />
+    <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&color=ffffff&background=0d1117&center=true&vCenter=true&width=550&height=60&duration=3000&pause=500&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer" alt="Typing Animation" />
+</p>
 </p>
 
 - ⚡ Fun fact: It took less code to put man on the moon than modern smartphones! 😳😲 
@@ -25,11 +27,11 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=Home-Server&theme=radical&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=Home-Server&theme=radical&show_owner=true" alt="Project 1" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=ANOTHER_REPO&theme=radical&show_owner=true" />
-      </td>
+     <!-- <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=ANOTHER_PROJECT&theme=radical&show_owner=true" alt="Project 2" />
+      </td> -->
     </tr>
   </table>
 </p>
