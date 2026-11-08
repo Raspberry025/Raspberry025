@@ -10,9 +10,8 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-    <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&color=ffffff&background=0d1117&center=true&vCenter=true&width=550&height=60&duration=3000&pause=500&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer" alt="Typing Animation" />
-</p>
+  <img src="https://img.shields.io/badge/Dynamic_Text-Always_Learning-ff7b72?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_To_Work-3fb950?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 - ⚡ Fun fact: It took less code to put man on the moon than modern smartphones! 😳😲 
