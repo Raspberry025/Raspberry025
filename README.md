@@ -7,6 +7,10 @@
   <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning!;Building+Cool+Stuff" />
+</p>
+
 ## 👨‍💻 About Me  
 
 - 🎓 CS student (AI/ML specialization)  
