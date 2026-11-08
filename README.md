@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning!;Building+Cool+Stuff" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&color=ffffff&background=0d1117&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning!;Building+Cool+Stuff" alt="Typing SVG" />
 </p>
 
 - ⚡ Fun fact: It took less code to put man on the moon than modern smartphones! 😳😲 
