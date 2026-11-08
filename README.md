@@ -20,12 +20,12 @@
 <div align="center">
 
 ### 🎧 Now Playing
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31yigeg3xdi3jmkimvazchnmyt4q&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=false)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
 
 ---
 
-### 🎶 Recently Played
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31yigeg3xdi3jmkimvazchnmyt4q&count=5)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
+### 🎵 Listen With Me
+[![Spotify Profile](https://img.shields.io/badge/View_My_Spotify_Profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31yigeg3xdi3jmkimvazchnmyt4q)
 
 
 </div>
@@ -77,14 +77,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raspberry025&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
- <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raspberry025&theme=radical" alt="GitHub Streak" height="180"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Raspberry025&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=Raspberry025&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspberry025&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raspberry025&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake  
