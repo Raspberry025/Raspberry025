@@ -10,8 +10,7 @@
 ## 👨‍💻 About Me  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dynamic_Text-Always_Learning-ff7b72?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open_To_Work-3fb950?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=ffffff&background=0d1117&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sambid+Shrestha;AI+%26+ML+Enthusiast;Python+Developer;Always+Learning!;Building+Cool+Stuff" />
 </p>
 
 - ⚡ Fun fact: It took less code to put man on the moon than modern smartphones! 😳😲 
