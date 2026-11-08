@@ -24,12 +24,13 @@
 <p align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=Home-Server&theme=radical&show_owner=true" alt="Project 1" />
+      <td align="center">
+        <a href="https://github.com/Raspberry025/Home-Server">
+          <img src="https://img.shields.io/badge/🏠_Home_Server-Active-ff7b72?style=for-the-badge&logo=server&logoColor=white" alt="Home Server" />
+        </a>
+        <br/>
+        <sub>Self-hosted server setup & configuration</sub>
       </td>
-     <!-- <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raspberry025&repo=ANOTHER_PROJECT&theme=radical&show_owner=true" alt="Project 2" />
-      </td> -->
     </tr>
   </table>
 </p>
